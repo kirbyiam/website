@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .img-circle {
-		border-radius: 50%;
+		border-radius: 40%;
 }
 
 .my-button {
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 #about img {
 		max-width: 15em;
 		position: relative;
-		bottom: 7.5em;
+		bottom: 7.5     em;
 }
 
 #about .details {
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** Experience ***/
 #experience {
 	background-color: #4c6d86;
-	padding: 6em 4em 5.6em;
+	padding: 2em 4em 5.6em;
 }
 
 #experience h2 {

@@ -2,69 +2,70 @@ function makeWords() {
 
 	var words = [
 		{
-			text: "html5",
+			text: "Return on Investment",
 			weight: 12.3
 		}, {
-			text: "css3",
+			text: "Sales Funnel",
 			weight: 12.5
 		}, {
-			text: "javascript",
+			text: "Value Statement",
 			weight: 13
 		}, {
-			text: "jquery",
+			text: "Analytics",
 			weight: 12
 		}, {
-			text: "programming",
+			text: "Buyer Persona",
 			weight: 10
 		}, {
-			text: "python",
+			text: "Content Management Systems",
 			weight: 10
 		}, {
-			text: "java",
+			text: "Cost-Based Pricing",
 			weight: 9
 		}, {
-			text: "nodejs",
+			text: "Customer Loyalty",
 			weight: 11
 		}, {
-			text: "npm",
+			text: "Direct Mail",
 			weight: 9
-		}, {
-			text: "web development",
-			weight: 10
-		}, {
-			text: "C",
-			weight: 8.3
-		}, {
-			text: "Scheme",
-			weight: 8.1
-		}, {
-			text: "php",
-			weight: 7.8
-		}, {
-			text: "hadoop",
-			weight: 8.5
-		}, {
-			text: "numpy",
-			weight: 7
-		}, {
-			text: "matplotlib",
-			weight: 7
-		}, {
-			text: "ruby",
-			weight: 8
-		}, {
-			text: "express",
-			weight: 9
-		}, {
-			text: "flask",
-			weight: 8.9
-		}, {
-			text: "responsive design",
-			weight: 10
-		}, {
-			text: "bootstrap",
-			weight: 10
-		}
+		},
+		// {
+		// 	text: "web development",
+		// 	weight: 10
+		// }, {
+		// 	text: "C",
+		// 	weight: 8.3
+		// }, {
+		// 	text: "Scheme",
+		// 	weight: 8.1
+		// }, {
+		// 	text: "php",
+		// 	weight: 7.8
+		// }, {
+		// 	text: "hadoop",
+		// 	weight: 8.5
+		// }, {
+		// 	text: "numpy",
+		// 	weight: 7
+		// }, {
+		// 	text: "matplotlib",
+		// 	weight: 7
+		// }, {
+		// 	text: "ruby",
+		// 	weight: 8
+		// }, {
+		// 	text: "express",
+		// 	weight: 9
+		// }, {
+		// 	text: "flask",
+		// 	weight: 8.9
+		// }, {
+		// 	text: "responsive design",
+		// 	weight: 10
+		// }, {
+		// 	text: "bootstrap",
+		// 	weight: 10
+		// }
 		/* ... */
 	];
 	return words;
