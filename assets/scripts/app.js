@@ -95,12 +95,12 @@ function designForm() {
 $(document).ready(function() {
 	Typed.new("#writing-text", {
 		strings: [
-			"am a copywriter.", "love to help small businesses grow.", "am passionate about teaching.", "work with others to build a strong presense online"
+			"am software developer.", "love designing.", "can help with all phases of web development.", "help small businesses grow their revenue."
 		],
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed
-		typeSpeed: 1,
+		typeSpeed: 50,
 		contentType: 'text',
 		callback: function() {
 			$("#writing-text").css({"color": "#fff", "background-color": "#C8412B"});
